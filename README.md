@@ -13,11 +13,7 @@ Some of the programming languages I know are,
 
 ## Projects
 Current Projects:
-- Cow RPG [Source Code](https://github.com/GoonGroupStudio/CowRPG)
+- Task List
 
 ## Socials
 - [GitHub](https://github.com/mrfarmer09)
-
-## Contact
-- Email: asher@ourjohnsonfamily.net
-- Website: [goongroupstudio.com](https://goongroupstudio.com/contact)
